@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864780914384",
+    "project_id": "technical-test-c67ae",
+    "storage_bucket": "technical-test-c67ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864780914384:android:ee5493f85fcf4337f318d5",
+        "android_client_info": {
+          "package_name": "com.example.scale3c"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOAxzMcaxW-uQCLfeFCQkOZK6aKpm8U-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
